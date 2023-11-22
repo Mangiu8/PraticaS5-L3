@@ -34,7 +34,7 @@ h1 {
   font-size: 4em;
 }
 .Card {
-  contain: paint;
+  overflow: hidden;
   border-radius: 110px;
   background-color: #fef7e2;
   width: 45%;
